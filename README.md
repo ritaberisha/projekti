@@ -1,2 +1,2 @@
-# projekti
+# Projekti
 Projekti ne lenden e Programimit
